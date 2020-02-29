@@ -1,0 +1,7 @@
+numpy
+opencv-contrib-python
+matplotlib
+glob3
+jupyter
+imageio
+scipy
